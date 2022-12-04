@@ -1,0 +1,7 @@
+A) FIFO e uma abriviação para "fist-in-fist-out" e um metodo para lidar com
+estrutura de dados fila onde o primeiro elemento e processado primeiro e o elemento
+mais novo e processado por ultimo.
+
+B) FILO e uma abriviação para fist in, last out e um metodo paar lidar com estruturas de
+dados do tipo pilha em que o ultimo elemento e processado primeiro e o primeiro elemento e
+processado por ultimo.

@@ -1,0 +1,4 @@
+Como a lista e uma lista encadeada o programa vai ter que percorre por todos os elementos
+ate achar o elemento desejado, quando ele achar o elmento ele vai pegar o nó anterior do elemento
+e aponta ele para o proximo elemento, depois ele retira o nó do elemento E3 fazendo aponta para nem um(Null)
+depois disso quando o sistema operacional ativar o garbetcollecte o elemento E3 vai ser apagado. 

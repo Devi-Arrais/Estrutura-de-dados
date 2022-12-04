@@ -1,0 +1,17 @@
+A) Primeiro sub-arvore a esquerda, raiz, sub-arvore a direita;
+18-16-4-7-20-38-37-43
+
+B) Primeiro a sub-arvore a esquerda depois a sub-arvore a direita e a raiz;
+18-16-4-7-37-43-38-20
+
+C) Primeiro raiz, sub-arvore a esquerda e sub-arvore a direita;
+20-7-4-16-18-38-37-43
+
+D) 20: 2; 
+    7: 2;
+    4: 0;
+   16: 1;
+   18: 0;
+   38: 2;
+   37: 0;
+   43: 0; 
