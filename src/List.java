@@ -10,4 +10,6 @@ public interface List {
 	public void update(int position, int value);
 	
 	public int size();
+
+	public boolean search(int value);
 }

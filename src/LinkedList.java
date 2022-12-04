@@ -27,6 +27,20 @@ public class LinkedList implements List {
 
 	}
 
+	public boolean search(int value){
+		if (this.head == null){
+			return false;
+		}
+		Node current = this.head;
+		while(current != null){
+			if(current.content == value){
+				return true;
+			}
+			current = current.next;
+		}
+		return false;
+	}
+
 	@Override
 	public String show() {
 		if (this.head == null) {
